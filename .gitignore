@@ -15,3 +15,6 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+logs/access_log
+logs/error_log
+.DS_Store
